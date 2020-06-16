@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="1.png"  />
+    <image name="2.png"  />
+    <image name="3.jpg"  />
+    <image name="4.jpg"  />
+    <image name="5.jpg"  />
+    <image name="6.png"  />
+    <image name="7.jpg"  />
+    <image name="address.png"  />
+    <image name="banner.png"  />
+    <image name="card-full.png"  />
+    <image name="circle.png"  />
+    <image name="file.png"  />
+    <ui name="GUI 1" />
+    <image name="ligne.png"  />
+    <image name="ligne2.png"  />
+    <image name="ligne3.png"  />
+    <image name="ligne4.png"  />
+    <image name="ligne5.png"  />
+    <image name="load.png"  />
+    <image name="login.png"  />
+    <image name="modif.png"  />
+    <image name="profil.jpg"  />
+    <image name="send.png"  />
+    <image name="supp.png"  />
+    <image name="tag1.png"  />
+    <image name="tag2.png"  />
+    <image name="tgt.png"  />
+    <image name="th1.jpg"  />
+    <image name="th2.jpg"  />
+    <image name="th3.png"  />
+    <image name="th4.jpg"  />
+    <image name="th5.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="SideCommand.bgColor" value="cc0099" />
+        <border key="SideCommand.border" type="empty" />
+        <val key="SideCommand.fgColor" value="ffffff" />
+        <font key="SideCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <val key="SideCommand.margin" value="0.0,1.0,0.0,0.0" />
+        <val key="SideCommand.padUnit" value="2,2,2,2" />
+        <val key="SideCommand.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="SideCommand.press#bgColor" value="660066" />
+        <val key="SideCommand.press#derive" value="SideCommand" />
+        <val key="SideCommand.sel#bgColor" value="660066" />
+        <val key="SideCommand.sel#derive" value="SideCommand" />
+        <val key="SideCommand.textDecoration" value="0" />
+        <val key="SideCommand.transparency" value="255" />
+    </theme>
+    <theme name="Theme 1">
+        <val key="@includeNativeBool" value="true" />
+        <val key="SideCommand.bgColor" value="cc0099" />
+        <border key="SideCommand.border" type="empty" />
+        <val key="SideCommand.fgColor" value="ffffff" />
+        <font key="SideCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <val key="SideCommand.margin" value="0.0,1.0,0.0,0.0" />
+        <val key="SideCommand.padUnit" value="2,2,2,2" />
+        <val key="SideCommand.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="SideCommand.press#bgColor" value="660066" />
+        <val key="SideCommand.press#derive" value="SideCommand" />
+        <val key="SideCommand.sel#bgColor" value="660066" />
+        <val key="SideCommand.sel#derive" value="SideCommand" />
+        <val key="SideCommand.textDecoration" value="0" />
+        <val key="SideCommand.transparency" value="255" />
+        <val key="sel#bgColor" value="660066" />
+        <val key="sel#derive" value="SideCommand" />
+    </theme>
+    <image name="thumb.png"  />
+    <image name="tunisian.png"  />
+    <image name="tunisianO.png"  />
+</resource>
